@@ -1,0 +1,21 @@
+{
+  "name": "html-scraper",
+  "version": "1.0.0",
+  "description": "A simple web scraper using Node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "keywords": [
+    "web scraping",
+    "node.js",
+    "scraper"
+  ],
+  "author": "Twoje Imię",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.0.0",
+    "cheerio": "^1.0.0"
+  }
+}
